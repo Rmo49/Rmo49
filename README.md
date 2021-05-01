@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rmo49
+- 👋 Hi, I’m Rudolf.
 - 👀 I’m interested in Java and Flutter
 - 🌱 I’m retired, just developing for fun.
 
